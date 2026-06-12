@@ -52,7 +52,7 @@ Thanks for stopping by! 🚀
 ### 🌱 Github Stats
 ![Arif GitHub stats](https://github-readme-stats.vercel.app/api?username=ArifRahmanHakima&show_icons=true&theme=dark)
 
-https://raw.githubusercontent.com/ArifRahmanHakima/ArifRahmanHakima/output/snake.svg
+![Snake animation](https://raw.githubusercontent.com/ArifRahmanHakima/ArifRahmanHakima/snake-output/snake.svg)
 
 
 
