@@ -54,7 +54,7 @@ Thanks for stopping by! 🚀
 
 ![Snake animation](https://raw.githubusercontent.com/ArifRahmanHakima/ArifRahmanHakima/output/snake.svg)
 
-![Pacman](https://raw.githubusercontent.com/ArifRahmanHakima/ArifRahmanHakima/pacman-output/pacman-contribution-graph.svg)
+![Pacman](https://raw.githubusercontent.com/ArifRahmanHakima/ArifRahmanHakima/output/pacman-contribution-graph.svg)
 
 
 
